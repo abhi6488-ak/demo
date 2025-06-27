@@ -3,7 +3,7 @@ import HomePage from "./pages/HomePage";
 import ContactPage from "./pages/ContactPage";
 import CoursesPage from "./pages/CoursesPage";
 import AboutPage from "./pages/AboutPage";
-import "./styles/Pages.css";
+import "./styles/pages.css";
 
 const App = () => {
   return(
