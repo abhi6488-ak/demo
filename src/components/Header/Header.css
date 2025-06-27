@@ -1,0 +1,21 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 99%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    color: white;
+    margin: 10px;
+}
+
+.text{
+    color: white;
+}
+
+.button{
+    background-color: green;
+    color: white;
+}
