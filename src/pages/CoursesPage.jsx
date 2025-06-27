@@ -1,5 +1,5 @@
 import Header from "../components/Header/Header";
-import "/src/styles/Pages.css";
+import "/src/styles/pages.css";
 
 
 const CoursesPage = () =>{
